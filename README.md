@@ -1,5 +1,9 @@
 ### Doing Profile Calls
 
+From Console Log :
+	
+	"The following profiles are active: native"
+
 With 'Native' Profile
 
 server.port=8888
